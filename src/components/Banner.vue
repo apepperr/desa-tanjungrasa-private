@@ -7,7 +7,7 @@
             <p class="text-white text-3xl">Kab. Bogor</p>
         </div>
         <div class="grid place-items-center ml-auto mr-20">
-            <iframe width="480"  height="260" src="https://www.youtube.com/embed/h2Gg69OJhaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+            <iframe width="480"  height="260" src="https://www.youtube.com/embed/evmy8OMvP4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
             </iframe>
           </div>
     </div>

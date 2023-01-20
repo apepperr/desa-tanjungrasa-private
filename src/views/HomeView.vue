@@ -12,8 +12,16 @@ import Sidebar from '../components/Sidebar.vue'
     <div class="flex-1 p-10">
 
 
-      <p class="text-3xl font-semibold">Visi & Misi Desa</p>
-      <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis, ipsam. Voluptatum vitae veniam numquam tempora asperiores odit nisi, ipsa minus corporis eos veritatis nulla rerum reiciendis iure nam eligendi aliquam! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis, ipsam. Voluptatum vitae veniam numquam tempora asperiores odit nisi, ipsa minus corporis eos veritatis nulla rerum reiciendis iure nam eligendi aliquam! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis, ipsam. Voluptatum vitae veniam numquam tempora asperiores odit nisi, ipsa minus corporis eos veritatis nulla rerum reiciendis iure nam eligendi aliquam! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis, ipsam. Voluptatum vitae veniam numquam tempora asperiores odit nisi, ipsa minus corporis eos veritatis nulla rerum reiciendis iure nam eligendi aliquam! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corporis, ipsam. Voluptatum vitae veniam numquam tempora asperiores odit nisi, ipsa minus corporis eos veritatis nulla rerum reiciendis iure nam eligendi aliquam!</p>
+      <p class="text-3xl font-semibold">Visi & Misi Desa Tanjungrasa</p>
+      <p class="text-lg font-semibold mt-4">Visi Desa Tanjungrasa</p>
+      <p>Terwujudnya Penyelengaraan Pemerintah Desa Yang Siap Bersaing,Dalam Pembangunan, Pemberdayaan Masyarakat Dan Pembinanan Masyarakat Yang Berkualitas</p>
+      <p class="text-lg font-semibold mt-4">Misi Desa Tanjungrasa</p>
+      <ul>
+        <li>Meningkatkan Tata Penyelengaraan Pelayanan Masyarkat Dan Pemerintahan Desa</li>
+        <li>Meningkatkan Pembangunan Sarana Dan Prasarana Didalam Desa</li>
+        <li>Meningkatkan Pembinaan Masyarakat Desa</li>
+      </ul>
+      
 
       <p class="text-3xl font-semibold my-4">Struktur Desa</p>
       <img src="@/assets/struktur-desa-tanjungrasa.png" alt=""/>
