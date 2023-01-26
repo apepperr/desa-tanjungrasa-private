@@ -1,7 +1,7 @@
 <template>
     <div class="w-[300px] sidebar h-[400px] mb-40 px-5 pt-10">
         <div class="text-lg py-4 px-1 border-b border-slate-200 text-[#00074e] font-semibold cursor-pointer">
-            Profile Desa
+            Profil Desa
         </div>
         <div class="text-lg py-4 px-1 border-b border-slate-200 text-[#00074e] font-semibold cursor-pointer">
             Berita
